@@ -1,5 +1,17 @@
 # Student Grade Tracker
 
+Name: PATHIPAKA GANESH
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT08WD497
+
+Domain: PYTHON PROGRAMMING
+
+Duration: 20 MAY TO 20 JUNE 2024
+
+Mentor: SRAVANI GOUNI
+
 ## Description:
 The Student Grade Tracker is a simple Python application built using Tkinter, which allows users to input their name, number of subjects, and grades for each subject. It then calculates the average grade, letter grade, and CGPA (Cumulative Grade Point Average) based on the entered grades.
 
