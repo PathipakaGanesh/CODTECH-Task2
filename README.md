@@ -36,3 +36,6 @@ The Student Grade Tracker is a simple Python application built using Tkinter, wh
 - `grade.py`: Contains the main code for the Student Grade Tracker application.
 - `README.md`: Provides information about the application and its usage.
 
+## GUI Image:
+
+<img src="grade.jpeg" width="500" height="400" />
